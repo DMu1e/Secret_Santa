@@ -1,4 +1,4 @@
-### Secret_Santa
+# Secret_Santa
 This is an application to randomly assign everybody a secret santa and allow them to add their wishlists.
 
 ## Targets
@@ -16,6 +16,9 @@ I want the program to be able to do some certain things like:
 9.  It should also be a web application that is updated in real time 
 
 
-# Languages
+### Languages
 
 ## How to achieve these 
+
+### Framework 
+https://chatgpt.com/canvas/shared/681c9e65f9c48191a3deb9e4c0731935
