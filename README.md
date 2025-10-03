@@ -19,6 +19,3 @@ I want the program to be able to do some certain things like:
 ### Languages
 
 ## How to achieve these 
-
-### Framework 
-https://chatgpt.com/canvas/shared/681c9e65f9c48191a3deb9e4c0731935
